@@ -10,5 +10,8 @@
     "clean": "git clean -fdX .",
     "pretest": "pnpm run build",
     "test": "pnpm -r test"
+  },
+  "dependencies": {
+    "unpkg-dev": "file:"
   }
 }

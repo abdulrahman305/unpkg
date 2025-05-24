@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "es-module-lexer": "^1.6.0",
-    "semver": "^7.6.3"
+    "semver": "^7.6.3",
+    "unpkg-worker": "file:"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250320.0",
